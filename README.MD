@@ -1,5 +1,10 @@
 # GRPC com GO!
 
+## Acesse no youtube:
+<a href="https://youtu.be/LuS59XHdKG8">
+  <img src="https://img.shields.io/badge/-ASSSITA%20AQUI-black?style=for-the-badge&logo=youtube&color=red"></img>
+</>
+
 ## Introdução
 
 - [x] Descobrir o que é o GRPC
